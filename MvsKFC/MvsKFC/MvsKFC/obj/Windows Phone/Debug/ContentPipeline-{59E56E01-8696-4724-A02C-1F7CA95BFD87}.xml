@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>HelloWorld.png</Source>
+      <Name>HelloWorld</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\HelloWorld.xnb</Output>
+      <Time>2012-11-28T22:29:51.2456862+08:00</Time>
+    </Item>
+    <Item>
+      <Source>CloseNormal.png</Source>
+      <Name>CloseNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\CloseNormal.xnb</Output>
+      <Time>2012-11-28T22:29:51.2396859+08:00</Time>
+    </Item>
+    <Item>
+      <Source>CloseSelected.png</Source>
+      <Name>CloseSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\CloseSelected.xnb</Output>
+      <Time>2012-11-28T22:29:51.2426861+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OpenXLive.jpg</Source>
+      <Name>images\OpenXLive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\images\OpenXLive.xnb</Output>
+      <Time>2012-11-28T22:29:51.2366857+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Achievements.png</Source>
+      <Name>images\Achievements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\images\Achievements.xnb</Output>
+      <Time>2012-11-28T22:29:51.1806825+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Achievements1.png</Source>
+      <Name>images\Achievements1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\images\Achievements1.xnb</Output>
+      <Time>2012-11-28T22:29:51.2116843+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Leaderboards.png</Source>
+      <Name>images\Leaderboards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\images\Leaderboards.xnb</Output>
+      <Time>2012-11-28T22:29:51.2146845+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Leaderboards1.png</Source>
+      <Name>images\Leaderboards1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\images\Leaderboards1.xnb</Output>
+      <Time>2012-11-28T22:29:51.2176846+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Lobby.png</Source>
+      <Name>images\Lobby</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\images\Lobby.xnb</Output>
+      <Time>2012-11-28T22:29:51.2306854+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Lobby1.png</Source>
+      <Name>images\Lobby1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\images\Lobby1.xnb</Output>
+      <Time>2012-11-28T22:29:51.2336855+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\KFCgrandpa_select.png</Source>
+      <Name>UI\KFCgrandpa_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\UI\KFCgrandpa_select.xnb</Output>
+      <Time>2012-11-28T23:04:48.2814513+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\uncle_select.png</Source>
+      <Name>UI\uncle_select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\UI\uncle_select.xnb</Output>
+      <Time>2012-11-28T23:04:48.276451+08:00</Time>
+    </Item>
+    <Item>
+      <Source>background\background.png</Source>
+      <Name>background\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\background\background.xnb</Output>
+      <Time>2012-11-28T22:44:33.5162011+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\star.png</Source>
+      <Name>UI\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\UI\star.xnb</Output>
+      <Time>2012-11-28T22:44:52.927466+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\select.png</Source>
+      <Name>UI\select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\UI\select.xnb</Output>
+      <Time>2012-11-28T22:44:58.1324842+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\people.png</Source>
+      <Name>UI\people</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\UI\people.xnb</Output>
+      <Time>2012-11-28T22:45:02.9355067+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\uncle.png</Source>
+      <Name>sprites\uncle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\sprites\uncle.xnb</Output>
+      <Time>2012-11-28T22:45:06.471527+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\uncle_move.png</Source>
+      <Name>sprites\uncle_move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\sprites\uncle_move.xnb</Output>
+      <Time>2012-11-28T22:45:10.3425476+08:00</Time>
+    </Item>
+    <Item>
+      <Source>uncle\M1.png</Source>
+      <Name>uncle\M1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\uncle\M1.xnb</Output>
+      <Time>2012-11-29T01:55:12.2302887+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\Images\zhengyu.png</Source>
+      <Name>plist\Images\zhengyu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\plist\Images\zhengyu.xnb</Output>
+      <Time>2012-12-06T21:32:58.4299599+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\Images\left_right.png</Source>
+      <Name>plist\Images\left_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\plist\Images\left_right.xnb</Output>
+      <Time>2012-11-29T20:28:06.5875173+08:00</Time>
+    </Item>
+    <Item>
+      <Source>employee\cook.png</Source>
+      <Name>employee\cook</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\employee\cook.xnb</Output>
+      <Time>2012-11-29T20:57:47.5803843+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\PK.png</Source>
+      <Name>UI\PK</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\UI\PK.xnb</Output>
+      <Time>2012-11-29T21:31:29.9850592+08:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\PK1.png</Source>
+      <Name>UI\PK1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\UI\PK1.xnb</Output>
+      <Time>2012-11-29T21:32:16.7037314+08:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\hamberger.png</Source>
+      <Name>sprites\hamberger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\sprites\hamberger.xnb</Output>
+      <Time>2012-11-29T22:50:36.8865665+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\Images\allimage.png</Source>
+      <Name>plist\Images\allimage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\plist\Images\allimage.xnb</Output>
+      <Time>2012-12-06T20:56:07.5305037+08:00</Time>
+    </Item>
+    <Item>
+      <Source>background\select.jpg</Source>
+      <Name>background\select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\background\select.xnb</Output>
+      <Time>2012-12-06T20:57:15.0633664+08:00</Time>
+    </Item>
+    <Item>
+      <Source>background\start.jpg</Source>
+      <Name>background\start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\background\start.xnb</Output>
+      <Time>2012-12-06T20:57:22.4377882+08:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\Arial.spritefont</Source>
+      <Name>fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\fonts\Arial.xnb</Output>
+      <Time>2012-11-28T22:29:51.1756822+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\zhengyu.plist</Source>
+      <Name>plist\zhengyu</Name>
+      <Importer>TextImporter</Importer>
+      <Processor>TextProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\plist\zhengyu.xnb</Output>
+      <Time>2012-12-06T21:32:49.9184731+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\left_right.plist</Source>
+      <Name>plist\left_right</Name>
+      <Importer>TextImporter</Importer>
+      <Processor>TextProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\plist\left_right.xnb</Output>
+      <Time>2012-11-29T20:27:44.4052486+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\allimage.plist</Source>
+      <Name>plist\allimage</Name>
+      <Importer>TextImporter</Importer>
+      <Processor>TextProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\plist\allimage.xnb</Output>
+      <Time>2012-12-06T20:56:00.0790775+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{59E56E01-8696-4724-A02C-1F7CA95BFD87}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFCContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\zhengyu\Desktop\lianxi\MvsKFC\MvsKFC\MvsKFC\lib\cocos2d.Content.Pipeline.Importers.dll</Key>
+        <Value>2012-11-28T22:33:49.9703405+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-10T22:34:08.2075634+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

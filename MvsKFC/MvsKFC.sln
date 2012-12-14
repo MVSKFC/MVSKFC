@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvsKFC", "MvsKFC\MvsKFC\MvsKFC.csproj", "{6B4C4710-6161-4CCB-B0E5-47EFC63D5B53}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MvsKFCContent", "MvsKFC\MvsKFCContent\MvsKFCContent.contentproj", "{59E56E01-8696-4724-A02C-1F7CA95BFD87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4C4710-6161-4CCB-B0E5-47EFC63D5B53}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6B4C4710-6161-4CCB-B0E5-47EFC63D5B53}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{6B4C4710-6161-4CCB-B0E5-47EFC63D5B53}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{6B4C4710-6161-4CCB-B0E5-47EFC63D5B53}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{6B4C4710-6161-4CCB-B0E5-47EFC63D5B53}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{6B4C4710-6161-4CCB-B0E5-47EFC63D5B53}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{59E56E01-8696-4724-A02C-1F7CA95BFD87}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{59E56E01-8696-4724-A02C-1F7CA95BFD87}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

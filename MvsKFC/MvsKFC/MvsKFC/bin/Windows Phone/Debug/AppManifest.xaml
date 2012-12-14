@@ -1,0 +1,8 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="MvsKFC" EntryPointType="MvsKFC.Game1" RuntimeVersion="3.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="MvsKFC" Source="MvsKFC.dll" />
+    <AssemblyPart x:Name="cocos2d-xna" Source="cocos2d-xna.dll" />
+    <AssemblyPart x:Name="cocos2d.Framework" Source="cocos2d.Framework.dll" />
+    <AssemblyPart x:Name="ICSharpCode.SharpZipLib" Source="ICSharpCode.SharpZipLib.dll" />
+  </Deployment.Parts>
+</Deployment>
